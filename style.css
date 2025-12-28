@@ -1,0 +1,85 @@
+h1{
+    background-color: white;
+    border:3px solid #868282;
+    width:400px;
+    box-shadow: 1px 1px 20px grey;
+    text-shadow:1px 1px 1px purple;
+    text-align:center;
+}
+.container{
+    border:3px solid black;
+    background-color: aliceblue;
+    box-sizing: border-box;
+    height:1600px;
+    box-shadow: 1px 1px 10px green;
+}
+#apple{
+    width:700px;
+    height:1400px;
+    border:2px solid black;
+    margin:30px;
+    background-color:beige;
+    box-shadow: 0px 0px 20px black;
+}
+.img1{
+    margin:80px;
+    border-radius: 15px;
+    float:right;
+    box-shadow: 5px 5px 10px rgb(21, 20, 20);
+
+    
+}
+.img2{
+    margin:80px;
+     border-radius: 15px;
+      float:right;
+      clear:right;
+       box-shadow: 9px 8px 10px rgb(21, 20, 20);
+
+}
+.img3{
+    margin-top:150px;
+   margin-right:80px;
+     border-radius: 15px;
+     float:right;
+     clear:right;
+     box-shadow: 9px 8px 10px rgb(67, 66, 68);
+}
+p{
+    text-align:left;
+    font-size:30px ;
+    font-weight: bold;
+    text-shadow: 1px 1px 4px white;
+
+    
+}
+#cat{
+    color:blueviolet;
+    text-shadow: 1px 1px 1px rgba(18, 12, 9, 0.816);
+}
+
+.dog{
+    text-align: left;
+    font-size:20px;
+    color:brown;
+    text-shadow:0.5px 0.5px 0.5px black
+}
+.gulu{
+    font-size: 20px;
+    color:brown;
+    text-shadow:0.5px 0.5px 0.5px black;
+}
+.plant{
+    font-size: 20px;
+    color:brown;
+    text-shadow:0.5px 0.5px 0.5px black;
+}
+.kabbu{
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#red{
+    font-size:20px ;
+    font-weight: bold;
+
+}
